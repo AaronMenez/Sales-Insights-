@@ -56,7 +56,7 @@ This Power BI project provides a comprehensive dashboard to analyze sales perfor
 
 #Dashboard Preview
 
-![Dashboard Screenshot](downloads/dashboard_preview.png)
+![Dashboard Screenshot]![Image](https://github.com/user-attachments/assets/980f88b1-8b65-4205-a9af-72fa457844e6)
 
 
 
